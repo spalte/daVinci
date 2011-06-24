@@ -1,0 +1,674 @@
+// !$*UTF8*$!
+{
+	4F0CD2E712F964B8001AD5CF /* DaVinciPlugin.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 592}}";
+			sepNavSelRange = "{395, 0}";
+			sepNavVisRange = "{0, 975}";
+		};
+	};
+	4F0CD2E812F964B8001AD5CF /* DaVinciPlugin.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 3185}}";
+			sepNavSelRange = "{6924, 0}";
+			sepNavVisRange = "{5406, 1688}";
+		};
+	};
+	4F17BE2613B4928500AD11FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 291";
+		rLen = 0;
+		rLoc = 10022;
+		rType = 0;
+		vrLen = 2529;
+		vrLoc = 8617;
+	};
+	4F23454F13A7E95400AA7416 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD17D9613325132001453A0 /* DaVinciRenderWindow.h */;
+		name = "DaVinciRenderWindow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1403;
+		vrLoc = 155;
+	};
+	4F23455113A7E95400AA7416 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD184C9133294E0001453A0 /* DaVinciRenderWindowFactory.cpp */;
+		name = "DaVinciRenderWindowFactory.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1157;
+		vrLoc = 0;
+	};
+	4F23455313A7E95400AA7416 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD17D9713325132001453A0 /* DaVinciRenderWindow.mm */;
+		name = "DaVinciRenderWindow.mm: 143";
+		rLen = 0;
+		rLoc = 3936;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 3048;
+	};
+	4F29EDB913B08894004B70D4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4FE8943912F8575000B78E25 /* daVinci-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/spalte/Documents/OsiriX/plugins/daVinci/daVinci-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F29EDBC13B08894004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 369";
+		rLen = 95;
+		rLoc = 12822;
+		rType = 0;
+		vrLen = 1748;
+		vrLoc = 11343;
+	};
+	4F29EDC813B1EC99004B70D4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4FE8943912F8575000B78E25 /* daVinci-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/spalte/Documents/OsiriX/plugins/daVinci/daVinci-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F29EDC913B1EC99004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F0CD2E812F964B8001AD5CF /* DaVinciPlugin.mm */;
+		name = "DaVinciPlugin.mm: 195";
+		rLen = 0;
+		rLoc = 6924;
+		rType = 0;
+		vrLen = 1688;
+		vrLoc = 5406;
+	};
+	4F29EDCA13B1EC99004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F29EDCB13B1EC99004B70D4 /* OrthogonalMPRViewer.h */;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+		rType = 0;
+	};
+	4F29EDCB13B1EC99004B70D4 /* OrthogonalMPRViewer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OrthogonalMPRViewer.h;
+		path = /Users/spalte/Documents/OsiriX/trunk/OrthogonalMPRViewer.h;
+		sourceTree = "<absolute>";
+	};
+	4F29EDCC13B1EC99004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F29EDCD13B1EC99004B70D4 /* OrthogonalMPRViewer.h */;
+		name = "OrthogonalMPRViewer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 532;
+	};
+	4F29EDCD13B1EC99004B70D4 /* OrthogonalMPRViewer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OrthogonalMPRViewer.h;
+		path = /Users/spalte/Documents/OsiriX/trunk/OrthogonalMPRViewer.h;
+		sourceTree = "<absolute>";
+	};
+	4F29EDCE13B1EC99004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 300";
+		rLen = 0;
+		rLoc = 10597;
+		rType = 0;
+		vrLen = 2258;
+		vrLoc = 8948;
+	};
+	4F29EDD113B1FEBD004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F29EDCD13B1EC99004B70D4 /* OrthogonalMPRViewer.h */;
+		name = "OrthogonalMPRViewer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 532;
+	};
+	4F29EDD213B1FEBD004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 283";
+		rLen = 0;
+		rLoc = 9790;
+		rType = 0;
+		vrLen = 2256;
+		vrLoc = 8948;
+	};
+	4F29EDD713B20080004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F29EDCD13B1EC99004B70D4 /* OrthogonalMPRViewer.h */;
+		name = "OrthogonalMPRViewer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 532;
+	};
+	4F29EDD813B20080004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 311";
+		rLen = 0;
+		rLoc = 11101;
+		rType = 0;
+		vrLen = 2376;
+		vrLoc = 9320;
+	};
+	4F29EDE113B20C95004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F29EDCD13B1EC99004B70D4 /* OrthogonalMPRViewer.h */;
+		name = "OrthogonalMPRViewer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 532;
+	};
+	4F29EDE213B20C95004B70D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 291";
+		rLen = 0;
+		rLoc = 10022;
+		rType = 0;
+		vrLen = 2492;
+		vrLoc = 8623;
+	};
+	4F3A53A7134F658300D6405C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4F3A53A8134F658300D6405C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4F5A5E5413959213002313D6 /* NSOpenGL.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSOpenGL.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSOpenGL.h;
+		sourceTree = "<absolute>";
+	};
+	4F7D3D37139F5C84007E222A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD184C8133294E0001453A0 /* DaVinciRenderWindowFactory.h */;
+		name = "DaVinciRenderWindowFactory.h: 2";
+		rLen = 0;
+		rLoc = 14;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 0;
+	};
+	4F7D3D42139F5C84007E222A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751D13323567001453A0 /* DaVinciGLView.h */;
+		name = "DaVinciGLView.h: 21";
+		rLen = 14;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 1148;
+		vrLoc = 0;
+	};
+	4F7D3D72139F769D007E222A /* DaVinciPlugin.mm:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4F0CD2E812F964B8001AD5CF /* DaVinciPlugin.mm */;
+		functionName = "-initPlugin";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = daVinci;
+		modificationTime = 329927048.003617;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	4F7D3D79139F76AE007E222A /* objc_exception_throw */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 329926513.68376;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+		symbolName = objc_exception_throw;
+	};
+	4F7D3D7A139F76DD007E222A /* OsiriX */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 4F7D3D7B139F76DD007E222A /* OsiriX.app */;
+		libgmallocEnabled = 0;
+		name = OsiriX;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4F7D3D7B139F76DD007E222A /* OsiriX.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = OsiriX.app;
+		path = /Users/spalte/Documents/OsiriX/trunk/build/Development/OsiriX.app;
+		sourceTree = "<absolute>";
+	};
+	4F7D3D92139F7773007E222A /* DaVinciGLView.mm:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		functionName = "-initWithFrame:mirroredView:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = daVinci;
+		modificationTime = 329927048.0039281;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	4F7D3D9F139F7844007E222A /* DaVinciGLView.mm:151 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 151;
+		location = daVinci;
+		modificationTime = 329927048.004158;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	4F7D3DA1139F7849007E222A /* DaVinciGLView.mm:97 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		functionName = "-openGLContext";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 97;
+		location = daVinci;
+		modificationTime = 329927048.004572;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	4F7D3DA3139F784A007E222A /* DaVinciGLView.mm:89 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		functionName = "-lockFocus";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 89;
+		location = daVinci;
+		modificationTime = 329927048.004469;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	4F89B06513AD155C00B8AB91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F0CD2E712F964B8001AD5CF /* DaVinciPlugin.h */;
+		name = "DaVinciPlugin.h: 15";
+		rLen = 0;
+		rLoc = 395;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 0;
+	};
+	4F89B07413AE02B000B8AB91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F0CD2E812F964B8001AD5CF /* DaVinciPlugin.mm */;
+		name = "DaVinciPlugin.mm: 57";
+		rLen = 0;
+		rLoc = 1694;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 988;
+	};
+	4F89B07713AE02B000B8AB91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 369";
+		rLen = 95;
+		rLoc = 12822;
+		rType = 0;
+		vrLen = 1748;
+		vrLoc = 11343;
+	};
+	4F8EE96F13AF353A0076AAB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 375";
+		rLen = 26;
+		rLoc = 13028;
+		rType = 0;
+		vrLen = 1836;
+		vrLoc = 9282;
+	};
+	4F8EE97013AF353A0076AAB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751D13323567001453A0 /* DaVinciGLView.h */;
+		name = "DaVinciGLView.h: 22";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 83;
+	};
+	4F8EE97113AF353A0076AAB3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4FE8943912F8575000B78E25 /* daVinci-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/spalte/Documents/OsiriX/plugins/daVinci/daVinci-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F8EE97213AF353A0076AAB3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4FE8943912F8575000B78E25 /* daVinci-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/spalte/Documents/OsiriX/plugins/daVinci/daVinci-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F8EE97513AF353A0076AAB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FD1751E13323567001453A0 /* DaVinciGLView.mm */;
+		name = "DaVinciGLView.mm: 369";
+		rLen = 95;
+		rLoc = 12822;
+		rType = 0;
+		vrLen = 1748;
+		vrLoc = 11343;
+	};
+	4FD1751D13323567001453A0 /* DaVinciGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 663}}";
+			sepNavSelRange = "{436, 0}";
+			sepNavVisRange = "{83, 1086}";
+		};
+	};
+	4FD1751E13323567001453A0 /* DaVinciGLView.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1385, 5564}}";
+			sepNavSelRange = "{10022, 0}";
+			sepNavVisRange = "{8617, 2529}";
+			sepNavWindowFrame = "{{71, 91}, {1444, 937}}";
+		};
+	};
+	4FD17D9613325132001453A0 /* DaVinciRenderWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 1248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{155, 1403}";
+		};
+	};
+	4FD17D9713325132001453A0 /* DaVinciRenderWindow.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 3276}}";
+			sepNavSelRange = "{3936, 0}";
+			sepNavVisRange = "{3048, 1298}";
+		};
+	};
+	4FD184C8133294E0001453A0 /* DaVinciRenderWindowFactory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 605}}";
+			sepNavSelRange = "{14, 0}";
+			sepNavVisRange = "{0, 896}";
+		};
+	};
+	4FD184C9133294E0001453A0 /* DaVinciRenderWindowFactory.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1255, 597}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1157}";
+		};
+	};
+	4FE8942412F8565F00B78E25 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Development;
+		activeExecutable = 4F7D3D7A139F76DD007E222A /* OsiriX */;
+		activeTarget = 4FE8943612F8575000B78E25 /* daVinci */;
+		addToTargets = (
+			4FE8943612F8575000B78E25 /* daVinci */,
+		);
+		breakpoints = (
+			4F7D3D72139F769D007E222A /* DaVinciPlugin.mm:53 */,
+			4F7D3D79139F76AE007E222A /* objc_exception_throw */,
+			4F7D3D92139F7773007E222A /* DaVinciGLView.mm:52 */,
+			4F7D3D9F139F7844007E222A /* DaVinciGLView.mm:151 */,
+			4F7D3DA1139F7849007E222A /* DaVinciGLView.mm:97 */,
+			4F7D3DA3139F784A007E222A /* DaVinciGLView.mm:89 */,
+		);
+		codeSenseManager = 4F3A53A8134F658300D6405C /* Code sense */;
+		executables = (
+			4F7D3D7A139F76DD007E222A /* OsiriX */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					953,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1065,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1025,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330601078;
+			PBXWorkspaceStateSaveDate = 330601078;
+		};
+		perUserProjectItems = {
+			4F17BE2613B4928500AD11FC /* PBXTextBookmark */ = 4F17BE2613B4928500AD11FC /* PBXTextBookmark */;
+			4F23454F13A7E95400AA7416 = 4F23454F13A7E95400AA7416 /* PBXTextBookmark */;
+			4F23455113A7E95400AA7416 = 4F23455113A7E95400AA7416 /* PBXTextBookmark */;
+			4F23455313A7E95400AA7416 = 4F23455313A7E95400AA7416 /* PBXTextBookmark */;
+			4F29EDB913B08894004B70D4 = 4F29EDB913B08894004B70D4 /* PlistBookmark */;
+			4F29EDBC13B08894004B70D4 = 4F29EDBC13B08894004B70D4 /* PBXTextBookmark */;
+			4F29EDC813B1EC99004B70D4 = 4F29EDC813B1EC99004B70D4 /* PlistBookmark */;
+			4F29EDC913B1EC99004B70D4 = 4F29EDC913B1EC99004B70D4 /* PBXTextBookmark */;
+			4F29EDCA13B1EC99004B70D4 = 4F29EDCA13B1EC99004B70D4 /* PBXTextBookmark */;
+			4F29EDCC13B1EC99004B70D4 = 4F29EDCC13B1EC99004B70D4 /* PBXTextBookmark */;
+			4F29EDCE13B1EC99004B70D4 = 4F29EDCE13B1EC99004B70D4 /* PBXTextBookmark */;
+			4F29EDD113B1FEBD004B70D4 = 4F29EDD113B1FEBD004B70D4 /* PBXTextBookmark */;
+			4F29EDD213B1FEBD004B70D4 = 4F29EDD213B1FEBD004B70D4 /* PBXTextBookmark */;
+			4F29EDD713B20080004B70D4 = 4F29EDD713B20080004B70D4 /* PBXTextBookmark */;
+			4F29EDD813B20080004B70D4 = 4F29EDD813B20080004B70D4 /* PBXTextBookmark */;
+			4F29EDE113B20C95004B70D4 = 4F29EDE113B20C95004B70D4 /* PBXTextBookmark */;
+			4F29EDE213B20C95004B70D4 = 4F29EDE213B20C95004B70D4 /* PBXTextBookmark */;
+			4F7D3D37139F5C84007E222A = 4F7D3D37139F5C84007E222A /* PBXTextBookmark */;
+			4F7D3D42139F5C84007E222A = 4F7D3D42139F5C84007E222A /* PBXTextBookmark */;
+			4F89B06513AD155C00B8AB91 = 4F89B06513AD155C00B8AB91 /* PBXTextBookmark */;
+			4F89B07413AE02B000B8AB91 = 4F89B07413AE02B000B8AB91 /* PBXTextBookmark */;
+			4F89B07713AE02B000B8AB91 = 4F89B07713AE02B000B8AB91 /* PBXTextBookmark */;
+			4F8EE96F13AF353A0076AAB3 = 4F8EE96F13AF353A0076AAB3 /* PBXTextBookmark */;
+			4F8EE97013AF353A0076AAB3 = 4F8EE97013AF353A0076AAB3 /* PBXTextBookmark */;
+			4F8EE97113AF353A0076AAB3 = 4F8EE97113AF353A0076AAB3 /* PlistBookmark */;
+			4F8EE97213AF353A0076AAB3 = 4F8EE97213AF353A0076AAB3 /* PlistBookmark */;
+			4F8EE97513AF353A0076AAB3 = 4F8EE97513AF353A0076AAB3 /* PBXTextBookmark */;
+			4FEA110B139D0CBE00ED2A08 = 4FEA110B139D0CBE00ED2A08 /* PBXTextBookmark */;
+			4FEA110D139D0CBE00ED2A08 = 4FEA110D139D0CBE00ED2A08 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4F3A53A7134F658300D6405C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4FE8943612F8575000B78E25 /* daVinci */ = {
+		activeExec = 0;
+	};
+	4FEA110B139D0CBE00ED2A08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F5A5E5413959213002313D6 /* NSOpenGL.h */;
+		name = "NSOpenGL.h: 95";
+		rLen = 0;
+		rLoc = 4715;
+		rType = 0;
+		vrLen = 1848;
+		vrLoc = 3881;
+	};
+	4FEA110D139D0CBE00ED2A08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4FEA110E139D0CBE00ED2A08 /* NSBundle.h */;
+		name = "NSBundle.h: 71";
+		rLen = 116;
+		rLoc = 3662;
+		rType = 0;
+		vrLen = 4037;
+		vrLoc = 2385;
+	};
+	4FEA110E139D0CBE00ED2A08 /* NSBundle.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSBundle.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSBundle.h;
+		sourceTree = "<absolute>";
+	};
+}
